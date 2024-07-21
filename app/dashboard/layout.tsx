@@ -1,6 +1,6 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
 
-// Attemped fix
+// Working fix; prior version had this but no longer needed
 // export const experimental_ppr = true;
 
 export default function Layout({ children }: { children: React.ReactNode }) {
