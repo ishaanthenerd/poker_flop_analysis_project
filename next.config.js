@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-// Attempted fix
+// Working fix; experimental was causing build issue
 const nextConfig = {};
 
 /*
